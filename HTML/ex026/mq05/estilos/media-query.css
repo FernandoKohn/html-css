@@ -1,0 +1,26 @@
+
+@media screen and (min-width: 768px) {
+    #burger {
+        display: none;
+    }
+
+    menu {
+        display: flex;
+    }
+
+    menu ul {
+        padding: 0;
+        margin: 0;
+        display: flex;
+
+    }
+
+    menu li {
+        display: inline-block;
+    }
+
+    main {
+        width: 768px;
+    }
+    
+}
